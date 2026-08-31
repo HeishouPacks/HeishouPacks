@@ -11,7 +11,7 @@
 
 ${{\color{#eff6f8}\normalsize{\texttt{ non-catering 　 ⟡⟡ 　 14+  　⟡⟡  regispecies }}}}$ <br>
 ${{\color{#eff6f8}\normalsize{\texttt{based off Project Moon's Heishou Packs + H. Corp}}}}$ <br>
-${{\color{#815247}\normalsize{\texttt{ ⇀ STATUS: WORKED ON. }}}}$ <br>
+${{\color{#815247}\normalsize{\texttt{ ⇀ STATUS: UNDER DEVELOPMENT. }}}}$ <br>
 
 </details>
 
